@@ -5,7 +5,7 @@
  
 ![Alt](./images/IMG_3199.jpeg "two items")
 
-I'm on macOS and I use the very popular Things app to help me stay on task through the day. I wanted to put my "Today" todo list on my tidbyt. Unfortunately, Things doesn't have an API for their cloud service, so I went a different route and used AppleScript to grab the data from Things, write to a .star file, and then set up a cron to render and push to the tidbyt. Here is the general way it works...
+I am on macOS and use the very popular Things app to help me stay on task through the day. I wanted to put my "Today" todo list on my tidbyt. Unfortunately, Things doesn't have an API for their cloud service, so I went a different route and used AppleScript to grab the data from Things, write to a .star file, and then set up a cron to render and push to the tidbyt. Here is the general way it works...
 
 1. AppleScript
 	- pull todo data from Things app
