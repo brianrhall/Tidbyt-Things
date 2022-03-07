@@ -15,7 +15,10 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 	- renders large app image with crossed circle for 0 items
 	- renders small icon top center for 1 and 2 items
 	- renders small icon left center for 3 items
-	- *working on option to vertical scroll with 1 item layout*
+	- *option for vertical scroll with 1 item layout*
+
+![Alt](./images/upcoming.mov "upcoming list") <figcaption align="center"><i>Upcoming list with vertical scroll layout</i></figcaption>
+
 3. cron
 	- shell script to run AppleScript and pixlet render webp
 	- shell script to push webp to tidbyt
@@ -24,7 +27,7 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 Things is on my tidbyt! The pictures do not do it justice, it looks great! 
 
 # Rendered via localhost
-![Alt](./images/img1.jpg "img1")
+| ![Alt](./images/img1.jpg "today none") | ![Alt](./images/upcomingNone.png "upcoming none") |
 ![Alt](./images/img2.jpg "img2")
 ![Alt](./images/img3.jpg "img3")
 ![Alt](./images/img4.jpg "img4")
