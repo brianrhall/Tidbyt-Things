@@ -27,7 +27,7 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 Things is on my tidbyt! The pictures do not do it justice, it looks great! 
 
 # Rendered via localhost
-| ![Alt](./images/img1.jpg "today none") | ![Alt](./images/upcomingNone.png "upcoming none") |
+| ![Alt](./images/img1.jpg "today none")
 ![Alt](./images/img2.jpg "img2")
 ![Alt](./images/img3.jpg "img3")
 ![Alt](./images/img4.jpg "img4")
