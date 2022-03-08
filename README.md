@@ -33,6 +33,7 @@ Things is on my tidbyt! The pictures do not do it justice, it looks great!
 | Today List 1 Item | Upcoming List 1 Item |
 :-------------------------:|:-------------------------:
 | ![Alt](./images/goToStore.png "go to store") | ![Alt](./images/takeAbreak.png "take a break") |
+
 ![Alt](./images/img3.jpg "img3")
 ![Alt](./images/img4.jpg "img4")
 ![Alt](./images/img5.jpg "img5")
