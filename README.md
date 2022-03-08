@@ -17,7 +17,8 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 	- renders small icon left center for 3 items
 	- *option for vertical scroll with 1 item layout*
 
-<cneter> ![Alt](./images/upcoming.gif "upcoming list") </center> <figcaption align="center"><i>Upcoming list with vertical scroll layout</i></figcaption>
+<p align="center"> <img src="./images/upcoming.gif" alt="upcomign list"> <figcaption align="center"><i>Upcoming list with vertical scroll layout</i></figcaption>
+</p>
 
 3. cron
 	- shell script to run AppleScript and pixlet render webp
