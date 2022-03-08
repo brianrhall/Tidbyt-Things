@@ -10,7 +10,7 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 1. AppleScript
 	- pull todo data from Things app
 	- overwrite existing .star file with updated list items (current limit 3 items)
-	- option to write todo list to file
+	- *option to write todo list to file*
 2. things.star (or whatever you want to name it)
 	- renders large app image with crossed circle for 0 items
 	- renders small icon top center for 1 and 2 items
