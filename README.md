@@ -9,17 +9,15 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 
 1. AppleScript
 	- pull todo data from Things app
-	- overwrite existing things.star file with updated todo list (current limit 3 items)
+	- overwrite existing .star file with updated list items (current limit 3 items)
 	- option to write todo list to file
-2. things.star
+2. things.star (or whatever you want to name it)
 	- renders large app image with crossed circle for 0 items
 	- renders small icon top center for 1 and 2 items
 	- renders small icon left center for 3 items
-	- *option for vertical scroll with 1 item layout*
-
-<p align="center"> <img src="./images/upcoming.gif" alt="upcomign list"> <figcaption align="center"><i>Upcoming list with vertical scroll layout</i></figcaption>
+	- *option for vertical scroll with 1 item layout as seen below for Upcoming List*
+    <p align="center"> <img src="./images/upcoming.gif" alt="upcomign list"> <figcaption align="center"><center><i>Upcoming List with vertical scroll layout</i></figcaption></center>
 </p>
-
 3. cron
 	- shell script to run AppleScript and pixlet render webp
 	- shell script to push webp to tidbyt
@@ -28,8 +26,13 @@ I am on macOS and use the very popular Things app to help me stay on task throug
 Things is on my tidbyt! The pictures do not do it justice, it looks great! 
 
 # Rendered via localhost
-| ![Alt](./images/img1.jpg "today none")
-![Alt](./images/img2.jpg "img2")
+| Today List None | Upcoming List None|
+:-------------------------:|:-------------------------:
+| ![Alt](./images/todayNone.png "today none") | ![Alt](./images/upcomingNone.png "upcoming none") |
+
+| Today List 1 Item | Upcoming List 1 Item |
+:-------------------------:|:-------------------------:
+| ![Alt](./images/goToStore.png "go to store") | ![Alt](./images/takeAbreak.png "take a break") |
 ![Alt](./images/img3.jpg "img3")
 ![Alt](./images/img4.jpg "img4")
 ![Alt](./images/img5.jpg "img5")
