@@ -1,7 +1,5 @@
 # Tidbyt Things
 [Tidbyt](https://tidbyt.com/) integration with [Things app (Things3)](https://apps.apple.com/us/app/things-3/id904237743)
-
-<span style="color:red">No I have not published the scripts here yet, currently just showing how it works.</span>
  
 ![Alt](./images/IMG_3199.jpeg "two items")
 
